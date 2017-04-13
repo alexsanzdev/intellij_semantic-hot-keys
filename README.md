@@ -136,8 +136,8 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌘ N | New class/file/other
-| ⌘ D | Duplicate file
+| ⌘ N | New... (class, file, etc)
+| ⌘ D | Copy... (duplicate)
 | DELETE | Delete
 | ⌘ T | Create test (or go to test)
 

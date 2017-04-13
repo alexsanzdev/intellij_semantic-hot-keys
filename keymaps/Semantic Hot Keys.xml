@@ -1,11 +1,7 @@
 <keymap version="1" name="Semantic Hot Keys" parent="Mac OS X 10.5+">
-  <action id="Arrangement.Alias.Rule.Add">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="Arrangement.Alias.Rule.Add" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
-  <action id="Arrangement.Rule.Add">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="Arrangement.Rule.Add" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
@@ -22,8 +18,13 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
+  <action id="CompareTwoFiles" />
+  <action id="CopyElement">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
@@ -87,10 +88,15 @@
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="m" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.NewFolder" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="GotoTest">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
   <action id="HippieCompletion" />
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
@@ -133,15 +139,17 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
-  <action id="NewElement">
+  <action id="NewElement" />
+  <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
-  <action id="PropertyInspectorActions.AddProperty">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="PropertyInspectorActions.AddProperty" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="control button2" />
     <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="QuickList.Close">
+    <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -149,9 +157,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
-  <action id="RemoteHost.NewRemoteItem">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="RemoteHost.NewRemoteItem" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -162,6 +168,8 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
   <action id="ShowContent" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
@@ -183,9 +191,7 @@
   </action>
   <action id="TableResult.GrowSelection" />
   <action id="ToggleBookmark7" />
-  <action id="Uml.NewElement">
-    <keyboard-shortcut first-keystroke="meta n" />
-  </action>
+  <action id="Uml.NewElement" />
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
@@ -193,4 +199,5 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
