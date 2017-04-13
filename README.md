@@ -130,7 +130,7 @@ A semantic keymap for IntelliJ
 | Key | Action
 | --- | ---
 | ⌘ W | Close current tab
-| ⌥ ⌘ W | Quick list menu: Close
+| ⌥ ⌘ W | Quick list: Close
 
 ### File
 
@@ -145,7 +145,7 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌘ O, SPACE | Quick list menu: Navigate/Open
+| ⌘ O, SPACE | Quick list: Navigate/Open
 | ⌘ O, C | Navigate to class
 | ⌘ O, F | Navigate to file
 | ⌘ O, L | Go to line
@@ -161,7 +161,7 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌘ F, SPACE | Find quick list menu
+| ⌘ F, SPACE | Quick list: Find
 | ⌘ F, F | Find in file
 | ⌘ F, P | Find in path
 | ⌘ F, U | Show usages
