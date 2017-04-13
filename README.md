@@ -78,10 +78,10 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌃ S |	Select word and expand to wider selection
-| ⌃ ⇧ S | Unselect word and narrow selection
-| ⌥ S |	Select next occurrence (with multi caret)
-| ⌃ ⌥ S | Select all occurrences
+| ⌃ S |	Extend selection (selecting)
+| ⌃ ⇧ S | Shrink selection (unselecting)
+| ⌥ S |	Add selection for next occurrence (with multi caret)
+| ⌃ ⌥ S | Select all occurrences (with multi caret)
 
 ##### Collapsing & Expanding
 
