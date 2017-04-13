@@ -96,14 +96,14 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌃ 7 |	Comment/uncomment line
-| ⌃ ⇧ 7 | Comment selection with block
+| ⌃ 7 |	Comment/Uncomment with line comment
+| ⌃ ⇧ 7 | Comment selection with block comment
 
 ##### Formatting
 
 | Key | Action
 | --- | ---
-| ⌃ F |	Reformat code (selected text or file)
+| ⌃ F |	Reformat code (selected text or whole file)
 
 ### Refactoring
 
