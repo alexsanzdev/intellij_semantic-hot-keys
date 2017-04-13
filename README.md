@@ -5,7 +5,8 @@ A semantic keymap for IntelliJ
 ## Compatibility
 
 * IntelliJ IDEA 2016.3.5
-* macOS / Mac OS X
+* OS: macOS / Mac OS X
+* Keyboard: Swedish - Pro
 
 ## Key Mappings
 
