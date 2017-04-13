@@ -12,7 +12,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Code Completing & Generating
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ SPACE | Basic code completion
 | ⌃ ⇧ SPACE | SmartType code completion
@@ -24,21 +24,21 @@ IntelliJ IDEA 2016.3.5
 
 ##### Copying & Pasting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ C |	Copy line if nothing selected
 | ⌘ ⇧ V | Paste recent clipboard
 
 ##### Duplicating
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ D |	Duplicate lines
 | ⌃ ⇧ D | Duplicate selection
 
 ##### Deleting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ DELETE | Delete line
 | ⌥ BACKSPACE |	Delete to line start
@@ -47,7 +47,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Inserting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ ENTER | New line below current
 | ⌃ ⇧ ENTER | New line above current
@@ -56,7 +56,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Moving
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ ↑ | Move statement up
 | ⌃ ↓ | Move statement down
@@ -66,7 +66,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Moving & Cloning Caret
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌥ → | Move caret to previous word
 | ⌥ ← | Move caret to next word
@@ -75,7 +75,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Selecting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ S |	Select word and expand to wider selection
 | ⌃ ⇧ S | Unselect word and narrow selection
@@ -84,7 +84,7 @@ IntelliJ IDEA 2016.3.5
 
 ##### Collapsing & Expanding
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ - | Collapse
 | ⌘ + | Expand
@@ -92,20 +92,20 @@ IntelliJ IDEA 2016.3.5
 
 ##### Commenting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ 7 |	Comment/uncomment line
 | ⌃ ⇧ 7 | Comment selection with block
 
 ##### Formatting
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ F |	Reformat code (selected text or file)
 
 ### Refactoring
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌃ N | Rename...
 | ⌃ R | Refactor this...	
@@ -118,21 +118,21 @@ IntelliJ IDEA 2016.3.5
 
 ### Documentation & Help
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ P | Show parameters
 | ⌘ J | Show documentation
 
 ### Tab Management
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ W | Close current tab
 | ⌥ ⌘ W | Quick list menu: Close
 
 ### File
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ N | New class/file/other
 | ⌘ D | Duplicate file
@@ -141,7 +141,7 @@ IntelliJ IDEA 2016.3.5
 
 ### Navigation / Open
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ O, SPACE | Quick list menu: Navigate/Open
 | ⌘ O, C | Navigate to class
@@ -157,7 +157,7 @@ IntelliJ IDEA 2016.3.5
 
 ### Find
 
-| Key | Description
+| Key | Action
 | --- | ---
 | ⌘ F, SPACE | Find quick list menu
 | ⌘ F, F | Find in file
@@ -171,7 +171,7 @@ IntelliJ IDEA 2016.3.5
 
 ### Run
 
-| Key | Description
+| Key | Action
 | --- | ---
 | F13 | Rerun/debug last configuration
 | F14 | Run... choose from a list of configurations
