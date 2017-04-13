@@ -27,15 +27,15 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌘ C |	Copy line if nothing selected
-| ⌘ ⇧ V | Paste recent clipboard
+| ⌘ C |	Copy selected, or whole line if nothing is selected
+| ⌘ ⇧ V | Paste from history...
 
 ##### Duplicating
 
 | Key | Action
 | --- | ---
-| ⌃ D |	Duplicate lines
-| ⌃ ⇧ D | Duplicate selection
+| ⌃ D |	Duplicate entire lines
+| ⌃ ⇧ D | Duplicate line or selection
 
 ##### Deleting
 
