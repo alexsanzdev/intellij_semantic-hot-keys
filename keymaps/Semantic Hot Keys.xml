@@ -22,6 +22,7 @@
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="Debug" />
   <action id="DebugClass" />
   <action id="Diff.ShowDiff" />
@@ -90,10 +91,27 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.NewFolder" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="s" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoBookmark7" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="c" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="f" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="l" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -151,6 +169,15 @@
   <action id="QuickList.Close">
     <keyboard-shortcut first-keystroke="meta alt w" />
   </action>
+  <action id="QuickList.Navigate/Open">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="space" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="e" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="r" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
@@ -198,6 +225,9 @@
   <action id="Vcs.Log.ShowTooltip">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Vcs.Show.Local.Changes">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="v" />
   </action>
   <action id="Vcs.UpdateProject" />
 </keymap>
