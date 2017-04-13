@@ -4,7 +4,8 @@ A semantic keymap for IntelliJ
 
 ## Compatibility
 
-IntelliJ IDEA 2016.3.5
+* IntelliJ IDEA 2016.3.5
+* macOS / Mac OS X
 
 ## Key Mappings
 
