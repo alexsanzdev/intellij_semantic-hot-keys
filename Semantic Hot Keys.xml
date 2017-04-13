@@ -1,0 +1,43 @@
+<keymap version="1" name="Semantic Hot Keys" parent="Mac OS X 10.5+">
+    <action id="Arrangement.Alias.Rule.Add">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+    <action id="Arrangement.Rule.Add">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+    <action id="EditorCompleteStatement">
+        <keyboard-shortcut first-keystroke="ctrl enter" />
+    </action>
+    <action id="Generate">
+        <keyboard-shortcut first-keystroke="ctrl g" />
+    </action>
+    <action id="HippieCompletion" />
+    <action id="NewElement">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+    <action id="PropertyInspectorActions.AddProperty">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+    <action id="RemoteHost.NewRemoteItem">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+    <action id="SelectNextOccurrence" />
+    <action id="SwitchApply">
+        <keyboard-shortcut first-keystroke="ctrl alt enter" />
+    </action>
+    <action id="SwitchDown">
+        <keyboard-shortcut first-keystroke="ctrl alt down" />
+    </action>
+    <action id="SwitchLeft">
+        <keyboard-shortcut first-keystroke="ctrl alt left" />
+    </action>
+    <action id="SwitchRight">
+        <keyboard-shortcut first-keystroke="ctrl alt right" />
+    </action>
+    <action id="SwitchUp">
+        <keyboard-shortcut first-keystroke="ctrl alt up" />
+    </action>
+    <action id="Uml.NewElement">
+        <keyboard-shortcut first-keystroke="meta n" />
+    </action>
+</keymap>

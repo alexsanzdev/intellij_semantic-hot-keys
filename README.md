@@ -14,13 +14,13 @@ IntelliJ IDEA 2016.3.5
 
 | Key | Description
 | --- | ---
-| ⌃ SPACE | Code completion
-| ⌃ ⇧ SPACE | Smartype code completion
+| ⌃ SPACE | Basic code completion
+| ⌃ ⇧ SPACE | SmartType code completion
 | ⌃ ENTER | Complete current statement
-| ⌥ ENTER | Intention, inject language in java text
-| ⌃ G | Generate…
-| ⌃ O | Override methods
-| ⌃ I | Implement methods
+| ⌥ ENTER | Show intention actions
+| ⌃ G | Generate...
+| ⌃ O | Override methods...
+| ⌃ I | Implement methods...
 
 ##### Copying & Pasting
 
@@ -174,7 +174,7 @@ IntelliJ IDEA 2016.3.5
 | Key | Description
 | --- | ---
 | F13 | Rerun/debug last configuration
-| F14 | Run… choose from a list of configurations
-| F15 | Debug.. choose from a list of configurations
+| F14 | Run... choose from a list of configurations
+| F15 | Debug... choose from a list of configurations
 | ⇧ F14 | Run current context / element
 | ⇧ F15 | Debug current context / element 
