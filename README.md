@@ -175,8 +175,8 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| F13 | Rerun/debug last configuration
-| F14 | Run... choose from a list of configurations
-| F15 | Debug... choose from a list of configurations
+| F13 | Rerun/Debug last configuration
+| F14 | Run... (choose from a list of configurations)
+| F15 | Debug... (choose from a list of configurations)
 | ⇧ F14 | Run current context / element
 | ⇧ F15 | Debug current context / element 

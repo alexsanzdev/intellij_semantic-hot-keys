@@ -6,6 +6,12 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="f15" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="f14" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -23,7 +29,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
-  <action id="Debug" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f15" />
+  </action>
   <action id="DebugClass" />
   <action id="Diff.ShowDiff" />
   <action id="EditorCloneCaretAbove">
@@ -206,7 +214,12 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta f" second-keystroke="r" />
   </action>
-  <action id="Run" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="f13" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f14" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
   </action>
