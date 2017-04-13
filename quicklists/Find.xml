@@ -1,0 +1,15 @@
+<list display="Find">
+  <action id="Find" />
+  <action id="Replace" />
+  <action id="QuickList.$Separator$" />
+  <action id="FindInPath" />
+  <action id="ReplaceInPath" />
+  <action id="QuickList.$Separator$" />
+  <action id="ShowUsages" />
+  <action id="FindUsages" />
+  <action id="FindUsagesInFile" />
+  <action id="QuickList.$Separator$" />
+  <action id="HighlightUsagesInFile" />
+  <action id="QuickList.$Separator$" />
+  <action id="GotoAction" />
+</list>

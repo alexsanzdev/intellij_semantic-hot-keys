@@ -1,0 +1,13 @@
+<list display="Navigate/Open">
+  <action id="GotoClass" />
+  <action id="GotoFile" />
+  <action id="GotoSymbol" />
+  <action id="GotoRelated" />
+  <action id="QuickList.$Separator$" />
+  <action id="GotoLine" />
+  <action id="FileStructurePopup" />
+  <action id="QuickList.$Separator$" />
+  <action id="RecentFiles" />
+  <action id="RecentChangedFiles" />
+  <action id="Vcs.Show.Local.Changes" />
+</list>

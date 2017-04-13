@@ -1,0 +1,9 @@
+<list display="Close">
+  <action id="CloseContent" />
+  <action id="CloseAllEditorsButActive" />
+  <action id="CloseAllEditors" />
+  <action id="CloseAllUnmodifiedEditors" />
+  <action id="CloseAllUnpinnedEditors" />
+  <action id="QuickList.$Separator$" />
+  <action id="ReopenClosedTab" />
+</list>
