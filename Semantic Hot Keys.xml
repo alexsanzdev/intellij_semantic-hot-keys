@@ -2,11 +2,22 @@
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -27,10 +38,17 @@
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="EditorJoinLines">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="EditorUnSelectWord" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -38,17 +56,36 @@
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="PropertyInspectorActions.AddProperty">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
   <action id="Refactorings.QuickListPopupAction" />
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowContent" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -67,10 +104,15 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="TableResult.GrowSelection" />
   <action id="Uml.NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
+  <action id="Vcs.Log.ShowTooltip">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
   </action>
 </keymap>
