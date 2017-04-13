@@ -27,7 +27,7 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
-| ⌘ C |	Copy selected, or whole line if nothing is selected
+| ⌘ C |	Copy selected (or whole line if nothing is selected)
 | ⌘ ⇧ V | Paste from history...
 
 ##### Duplicating
@@ -44,16 +44,16 @@ A semantic keymap for IntelliJ
 | ⌃ DELETE | Delete line
 | ⌥ BACKSPACE |	Delete to line start
 | ⌥ DELETE | Delete to line end
-| ⌃ U |	Unwrap/remove
+| ⌃ U |	Unwrap/Remove...
 
 ##### Inserting
 
 | Key | Action
 | --- | ---
-| ⌃ ENTER | New line below current
-| ⌃ ⇧ ENTER | New line above current
-| ⌃ T | Live template + autocomplete live template
-| ⌃ ⇧ T | Surround code with
+| ⌃ ENTER | Start new line (after current)
+| ⌃ ⇧ ENTER | Start new line before current
+| ⌃ T | Insert live template...
+| ⌃ ⇧ T | Surround with...
 
 ##### Moving
 
