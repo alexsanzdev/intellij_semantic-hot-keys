@@ -148,6 +148,7 @@ A semantic keymap for IntelliJ
 | ⌘ O, SPACE | Quick list: Navigate/Open
 | ⌘ O, C | Navigate to class
 | ⌘ O, F | Navigate to file
+| ⌘ O, M | Navigate to symbol
 | ⌘ O, L | Go to line
 | ⌘ O, S | Go to in file structure (e.g. methods)
 | ⌘ O, R | Recent viewed files

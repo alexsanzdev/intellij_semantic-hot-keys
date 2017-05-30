@@ -129,6 +129,9 @@
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta o" second-keystroke="l" />
   </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta o" second-keystroke="m" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
