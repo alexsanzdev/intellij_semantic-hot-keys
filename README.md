@@ -78,6 +78,7 @@ A semantic keymap for IntelliJ
 
 | Key | Action
 | --- | ---
+| ⌃ B |	Move caret to matching brace
 | ⌥ → | Move caret to previous word
 | ⌥ ← | Move caret to next word
 | ⌥ ↑ |	Clone caret above
