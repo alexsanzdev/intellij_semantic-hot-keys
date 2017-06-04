@@ -68,6 +68,12 @@ A semantic keymap for IntelliJ
 | ⌃ ← | Move element left
 | ⌃ J |	Join lines
 
+##### Other editing
+
+| Key | Action
+| --- | ---
+| ⌃ M |	Popup String manipulation... (plugin)
+
 ##### Moving & Cloning Caret
 
 | Key | Action
