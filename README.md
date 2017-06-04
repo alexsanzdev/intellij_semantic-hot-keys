@@ -64,6 +64,8 @@ A semantic keymap for IntelliJ
 | ⌃ ↓ | Move statement down
 | ⌃ ⇧ ↓ | Move line up
 | ⌃ ⇧ ↓ | Move line down
+| ⌃ → | Move element right
+| ⌃ ← | Move element left
 | ⌃ J |	Join lines
 
 ##### Moving & Cloning Caret

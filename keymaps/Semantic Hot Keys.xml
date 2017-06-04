@@ -168,6 +168,12 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -183,6 +189,12 @@
   <action id="NewElement" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="PropertyInspectorActions.AddProperty" />
   <action id="QuickJavaDoc">
