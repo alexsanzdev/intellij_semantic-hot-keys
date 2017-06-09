@@ -6,6 +6,9 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="numpad3" />
+  </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="f15" />
   </action>
@@ -174,6 +177,9 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="numpad2" />
+  </action>
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="ctrl left" />
   </action>
@@ -192,15 +198,27 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="numpad6" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="numpad9" />
+  </action>
   <action id="NewElement" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="numpad5" />
+  </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+    <keyboard-shortcut first-keystroke="numpad8" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="numpad4" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+    <keyboard-shortcut first-keystroke="numpad7" />
   </action>
   <action id="PropertyInspectorActions.AddProperty" />
   <action id="QuickJavaDoc">
@@ -274,6 +292,9 @@
   <action id="TableResult.GrowSelection" />
   <action id="ToggleBookmark7" />
   <action id="Uml.NewElement" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="numpad1" />
+  </action>
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="ctrl u" />
   </action>
