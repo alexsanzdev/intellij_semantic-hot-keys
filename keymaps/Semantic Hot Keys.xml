@@ -6,8 +6,12 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangeSplitOrientation">
-    <keyboard-shortcut first-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="numpad2" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="f15" />
@@ -74,7 +78,10 @@
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
@@ -116,6 +123,10 @@
   </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="meta f" second-keystroke="p" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -178,7 +189,7 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="numpad1" />
   </action>
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -199,26 +210,26 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="numpad6" />
+    <keyboard-shortcut first-keystroke="decimal" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="numpad9" />
+    <keyboard-shortcut first-keystroke="numpad3" />
   </action>
   <action id="NewElement" />
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="numpad5" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="numpad8" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="numpad4" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="numpad7" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="PropertyInspectorActions.AddProperty" />
   <action id="QuickJavaDoc">
@@ -293,7 +304,7 @@
   <action id="ToggleBookmark7" />
   <action id="Uml.NewElement" />
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="numpad0" />
   </action>
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="ctrl u" />

@@ -140,15 +140,15 @@ A semantic keymap for IntelliJ
 | --- | ---
 | ⌘ W | Close current tab
 | ⌥ ⌘ W | Quick list: Close
-| NUM-7 | Select previous tab
-| NUM-8 | Select next tab
-| NUM-9 | Move tab right
-| NUM-6 | Move tab down
-| NUM-3 | Change splitter orientation
-| NUM-4 | Go to previous splitter
-| NUM-5 | Go to next splitter
-| NUM-2 | Move to opposite group
-| NUM-1 | Unsplit
+| ⌘ → | Select next tab
+| ⌘ ← | Select previous tab
+| NUM-3 | Move tab right
+| NUM-, | Move tab down
+| NUM-2 | Change splitter orientation
+| ⌥ ⌘ → | Go to next splitter
+| ⌥ ⌘ ← | Go to previous splitter
+| NUM-1 | Move to opposite group
+| NUM-0 | Unsplit
 
 ### File
 
