@@ -11,7 +11,7 @@
     <mouse-shortcut keystroke="button4" />
   </action>
   <action id="ChangeSplitOrientation">
-    <keyboard-shortcut first-keystroke="numpad2" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
   <action id="ChooseDebugConfiguration">
     <keyboard-shortcut first-keystroke="f15" />
@@ -189,7 +189,7 @@
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="numpad1" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="MoveElementLeft">
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -210,10 +210,10 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="decimal" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="numpad3" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
   </action>
   <action id="NewElement" />
   <action id="NewElementInMenuGroup">
@@ -304,7 +304,7 @@
   <action id="ToggleBookmark7" />
   <action id="Uml.NewElement" />
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="numpad0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="Unwrap">
     <keyboard-shortcut first-keystroke="ctrl u" />

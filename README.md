@@ -142,13 +142,13 @@ A semantic keymap for IntelliJ
 | ⌥ ⌘ W | Quick list: Close
 | ⌘ → | Select next tab
 | ⌘ ← | Select previous tab
-| NUM-3 | Move tab right
-| NUM-, | Move tab down
-| NUM-2 | Change splitter orientation
+| ⌃ NUM-3 | Move tab right
+| ⌃ NUM-, | Move tab down
+| ⌃ NUM-2 | Change splitter orientation
 | ⌥ ⌘ → | Go to next splitter
 | ⌥ ⌘ ← | Go to previous splitter
-| NUM-1 | Move to opposite group
-| NUM-0 | Unsplit
+| ⌃ NUM-1 | Move to opposite group
+| ⌃ NUM-0 | Unsplit
 
 ### File
 
