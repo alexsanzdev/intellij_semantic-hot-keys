@@ -4,7 +4,7 @@ A semantic keymap for IntelliJ
 
 ## Compatibility
 
-* IntelliJ IDEA 2016.3.5
+* IntelliJ IDEA 2017.1.5
 * OS: macOS / Mac OS X
 * Keyboard: Swedish - Pro
 

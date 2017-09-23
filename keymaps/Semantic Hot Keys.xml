@@ -24,6 +24,7 @@
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
@@ -34,6 +35,9 @@
   <action id="CompareTwoFiles" />
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug">
@@ -101,14 +105,20 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="meta minus" />
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="m" />
@@ -162,6 +172,9 @@
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -185,6 +198,9 @@
   </action>
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta equals" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
