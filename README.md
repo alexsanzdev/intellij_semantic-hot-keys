@@ -100,6 +100,7 @@ A semantic keymap for IntelliJ
 | ⌘ - | Collapse
 | ⌘ + | Expand
 | ⌘ = | Expand all
+| ⌘ . | Fold custom selection / Remove
 
 ##### Commenting
 
