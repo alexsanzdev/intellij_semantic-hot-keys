@@ -141,8 +141,8 @@ A semantic keymap for IntelliJ
 | --- | ---
 | ⌘ W | Close current tab
 | ⌥ ⌘ W | Quick list: Close
-| ⌘ → | Select next tab
-| ⌘ ← | Select previous tab
+| ⌃ TAB | Select next tab
+| ⌃ ⇧ TAB | Select previous tab
 | ⌃ NUM-3 | Move tab right
 | ⌃ NUM-, | Move tab down
 | ⌃ NUM-2 | Change splitter orientation
