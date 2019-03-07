@@ -1,4 +1,6 @@
 <list display="Navigate/Open">
+  <action id="ShowNavBar" />
+  <action id="QuickList.$Separator$" />
   <action id="GotoClass" />
   <action id="GotoFile" />
   <action id="GotoSymbol" />
